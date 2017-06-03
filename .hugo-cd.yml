@@ -1,0 +1,6 @@
+# used to drive AWS resource naming. enter all caveats associated with AWS resource naming here.
+# most notably, it must be lowercase alphanumeric.
+stack_name: ryansydnor
+hosted_zone: ryansydnor.com
+git_url: https://github.com/ryansydnor/blog
+path_to_site: blog-master/
