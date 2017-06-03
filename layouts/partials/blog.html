@@ -15,7 +15,7 @@
                         </div>
                         {{ end }}
                         <div class="sub-sub-header">
-                          {{ .Date.Format (.Site.Params.dateform | default "January 2006") }} · {{ .ReadingTime }} minute read
+                          {{ .Date.Format .Site.Params.dateform }} · {{ .ReadingTime }} minute read
                         </div>
                     </article>
                 {{ end }}
