@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Technologist</title>
+    <link>http://example.org/gallery/</link>
+    <description>Recent content in Galleries on Technologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>false</copyright>
+    <lastBuildDate>Sat, 03 Jun 2017 12:06:49 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Buildbot</title>
+      <link>http://example.org/gallery/buildbot/</link>
+      <pubDate>Sat, 03 Jun 2017 12:06:49 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/buildbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>boto</title>
+      <link>http://example.org/gallery/boto/</link>
+      <pubDate>Sat, 03 Jun 2017 12:03:22 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/boto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitbar Plugins - Put anything in your Mac OS X Menu Bar</title>
+      <link>http://example.org/gallery/bitbar/</link>
+      <pubDate>Sat, 03 Jun 2017 11:51:15 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/bitbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brewery Life - Discovery Breweries Near You!</title>
+      <link>http://example.org/gallery/brewery-life/</link>
+      <pubDate>Sat, 03 Jun 2017 11:39:05 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/brewery-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git Tidbit - Learn something new every time you commit!</title>
+      <link>http://example.org/gallery/git-tidbit/</link>
+      <pubDate>Sat, 03 Jun 2017 11:21:18 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/git-tidbit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holochrome - Log in or switch between your AWS accounts with a single key stroke</title>
+      <link>http://example.org/gallery/holochrome/</link>
+      <pubDate>Sat, 03 Jun 2017 11:14:04 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/holochrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Serverless Continuous Delivery Framework and Hosting</title>
+      <link>http://example.org/gallery/hugo-cd/</link>
+      <pubDate>Sat, 03 Jun 2017 11:11:42 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/hugo-cd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

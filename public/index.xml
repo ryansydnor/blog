@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologist</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Technologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>false</copyright>
+    <lastBuildDate>Sat, 03 Jun 2017 12:24:42 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A/B Testing Using React, GraphQL and Apollo</title>
+      <link>http://example.org/blog/ab-testing-using-react-graphql-apollo/</link>
+      <pubDate>Sat, 03 Jun 2017 12:24:42 -0400</pubDate>
+      
+      <guid>http://example.org/blog/ab-testing-using-react-graphql-apollo/</guid>
+      <description>Originally posted here.
+Here at Teachers Pay Teachers, we want to ensure that any change we make to our site benefits our community of educators. In order to do this effectively we take an extraordinarily data driven approach to releasing code. In addition to what you’d normally expect of a production ready feature (well tested, instrumented for performance, monitoring/alerting set up) we also rely heavily on Google Analytics to record not only actions taken on each page – but what “experiments” were active when those actions were taken.</description>
+    </item>
+    
+    <item>
+      <title>Buildbot</title>
+      <link>http://example.org/gallery/buildbot/</link>
+      <pubDate>Sat, 03 Jun 2017 12:06:49 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/buildbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>boto</title>
+      <link>http://example.org/gallery/boto/</link>
+      <pubDate>Sat, 03 Jun 2017 12:03:22 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/boto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bitbar Plugins - Put anything in your Mac OS X Menu Bar</title>
+      <link>http://example.org/gallery/bitbar/</link>
+      <pubDate>Sat, 03 Jun 2017 11:51:15 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/bitbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brewery Life - Discovery Breweries Near You!</title>
+      <link>http://example.org/gallery/brewery-life/</link>
+      <pubDate>Sat, 03 Jun 2017 11:39:05 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/brewery-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git Tidbit - Learn something new every time you commit!</title>
+      <link>http://example.org/gallery/git-tidbit/</link>
+      <pubDate>Sat, 03 Jun 2017 11:21:18 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/git-tidbit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Holochrome - Log in or switch between your AWS accounts with a single key stroke</title>
+      <link>http://example.org/gallery/holochrome/</link>
+      <pubDate>Sat, 03 Jun 2017 11:14:04 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/holochrome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Serverless Continuous Delivery Framework and Hosting</title>
+      <link>http://example.org/gallery/hugo-cd/</link>
+      <pubDate>Sat, 03 Jun 2017 11:11:42 -0400</pubDate>
+      
+      <guid>http://example.org/gallery/hugo-cd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
