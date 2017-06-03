@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Technologist</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blogs on Technologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>false</copyright>
+    <lastBuildDate>Sat, 03 Jun 2017 12:24:42 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A/B Testing Using React, GraphQL and Apollo</title>
+      <link>http://example.org/blog/ab-testing-using-react-graphql-apollo/</link>
+      <pubDate>Sat, 03 Jun 2017 12:24:42 -0400</pubDate>
+      
+      <guid>http://example.org/blog/ab-testing-using-react-graphql-apollo/</guid>
+      <description>Originally posted here.
+Here at Teachers Pay Teachers, we want to ensure that any change we make to our site benefits our community of educators. In order to do this effectively we take an extraordinarily data driven approach to releasing code. In addition to what you’d normally expect of a production ready feature (well tested, instrumented for performance, monitoring/alerting set up) we also rely heavily on Google Analytics to record not only actions taken on each page – but what “experiments” were active when those actions were taken.</description>
+    </item>
+    
+  </channel>
+</rss>

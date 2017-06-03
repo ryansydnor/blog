@@ -12,12 +12,13 @@
         {{ end }}
 
         <title>
+            {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
             {{ if .IsHome }}
                 {{ .Site.Params.author }} - {{ .Site.Title }}
             {{ else if .Params.heading }}
-                {{ .Site.Params.author }} - {{ .Params.heading }}
+                {{ .Params.heading }}
             {{ else }}
-                {{ .Site.Params.author }} - {{ .Title }} | {{ .Site.Title }}
+                {{ .Title }} | {{ .Site.Title }}
             {{ end }}
         </title>
 
@@ -30,6 +31,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="referrer" content="no-referrer-when-downgrade">
         <meta name="generator" content="{{ .Hugo.Generator }}">
+        <base href="{{ .Site.BaseURL }}">
         {{ if .Description }}<meta name="description" content="{{ .Description }}">
         {{ else if .Site.Params.description }}<meta name="description" content="{{ .Site.Params.description }}">
         {{ else if .Summary }}<meta name="description" content="{{ .Summary }}">{{ end }}
