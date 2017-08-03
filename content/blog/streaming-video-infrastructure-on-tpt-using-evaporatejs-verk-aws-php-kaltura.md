@@ -1,6 +1,6 @@
 +++
 date = "2017-06-30T09:47:00-04:00"
-description = ""
+description = "This post outlines our video processing infrastructure and dives deeply into some of the technical issues we faced while releasing our minimal viable streaming video product."
 title = "Streaming Video Infrastructure on TpT using EvaporateJS, Verk, AWS, PHP, and Kaltura"
 +++
 

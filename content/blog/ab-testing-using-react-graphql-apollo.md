@@ -1,10 +1,8 @@
 +++
 
 date = "2017-06-03T12:24:42-04:00"
-description = "Explore Teachers Pay Teachers A/B testing implementation"
+description = "Here at Teachers Pay Teachers, we want to ensure that any change we make to our site benefits our community of educators. In order to do this effectively we take an extraordinarily data driven approach to releasing code. This post shares the details of TpT's A/B testing implementation."
 title = "A/B Testing Using React, GraphQL and Apollo"
-tags = []
-categories = []
 
 +++
 

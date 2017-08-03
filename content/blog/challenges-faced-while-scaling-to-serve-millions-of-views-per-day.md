@@ -1,6 +1,6 @@
 +++
 date = "2017-06-20T22:59:45-04:00"
-description = ""
+description = "TpT's product page receives ~2 million pages views per day making it the most heavily trafficked page on TpT. We decided to use a simple UI refresh as an opportunity to migrate the page to our new tech stack. This post dives deeply into the challenges we overcame while scaling the product page on our new infrastructure!"
 title = "Challenges faced while scaling to serve millions of views per day on AWS using Kubernetes, React, PHP, and Elixir"
 
 +++
@@ -95,8 +95,6 @@ h1, h2, h3 {
   }
 }
 </style>
-
-<br />
 
 Originally posted [here](http://engineering.teacherspayteachers.com/2017/06/05/challenges-faced-while-scaling-to-serve-millions-of-views-per-day.html).
  
