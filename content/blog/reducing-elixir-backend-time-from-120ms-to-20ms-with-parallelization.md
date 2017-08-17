@@ -127,4 +127,4 @@ All of this performance optimization has helped us improve the performance of th
 
 <img src="/images/parallel/trend.png" />
 
-Stay tuned for a follow up post about front-end performance optimizations of our product page!
+For more performance optimizations, check out [my post about front-end performance!](blog/two-tips-to-improve-performance-by-30-with-react-and-webpack)

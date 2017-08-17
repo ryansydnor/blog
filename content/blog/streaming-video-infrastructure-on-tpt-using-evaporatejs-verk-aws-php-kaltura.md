@@ -168,7 +168,5 @@ As a reminder, these Verk jobs are simple wrappers around our `PHP API`. The end
 ## Wrapping Up
  
 Due to these improvements in our infrastructure we’ve been able to successfully release video to our community! As of now, we have an [ever growing library of approximately 3000 videos](https://www.teacherspayteachers.com/Browse/Video/Order:Best-Seller) that help communicate concepts across an enormous breadth of topics. This foundation has paved the way for us to accelerate growth in our streaming video product and created new opportunities for our community!
- 
-Have you faced similar issues while releasing a new product? Figured out ways to more effectively use third party APIs? Have questions about our infrastructure? Let us know in the comments! 
 
 

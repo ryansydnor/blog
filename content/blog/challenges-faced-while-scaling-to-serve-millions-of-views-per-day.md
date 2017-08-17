@@ -323,8 +323,6 @@ This change simply cached the requested record type, rather than the resolved re
 
 ## Wrapping Up
 
-Now that we've solidly landed on our new infrastructure, we've been able to really accelerate our iteration velocity. We already have a number of experiments running on the new product page and are excited about improving our ability to help educators around the world as a result.
+Now that we've solidly landed on our new infrastructure, we've been able to really accelerate our product iteration velocity as well as our [backend](/blog/reducing-elixir-backend-time-from-120ms-to-20ms-with-parallelization/) and [front-end](/blog/two-tips-to-improve-performance-by-30-with-react-and-webpack) performance. We already have a number of experiments running on the new product page and are excited about improving our ability to help educators around the world as a result.
 
 This was one of the most collaborative projects I've ever had the pleasure of working on. Every single engineer at Teachers Pay Teachers helped us accomplish this!
-
-Do you have any interesting stories about technical hurdles you overcame while rolling out new functionality? Curious about more details of this rollout? Talk to us in the comments section!
