@@ -2,7 +2,7 @@
 date = "2017-08-16T09:47:00-04:00"
 description = "In this post I'll talk about the front-end optimizations TpT made to boost webpagetest Speedindex performance by 30 percent!"
 title = "Two Tips to Improve Performance by 30 percent with React and Webpack"
-
+slug = "two-tips-to-improve-performance-by-30-percent-with-react-and-webpack"
 +++
 
 Originally posted [here](http://engineering.teacherspayteachers.com/2017/08/16/two-tips-to-improve-performance-by-30-with-react-and-webpack.html).
