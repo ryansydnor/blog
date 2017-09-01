@@ -1,5 +1,5 @@
 +++
-date = "2017-08-17T07:11:54-04:00"
+date = "2017-08-16T09:47:00-04:00"
 description = "In this post I'll talk about the front-end optimizations TpT made to boost webpagetest Speedindex performance by 30%!"
 title = "Two Tips to Improve Performance by 30% with React and Webpack"
 
