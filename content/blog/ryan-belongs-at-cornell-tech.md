@@ -1,5 +1,5 @@
 +++
-date = "2017-12-06T19:32:18-05:00"
+date = "2017-07-06T19:32:18-05:00"
 description = ""
 title = "Ryan Belongs at Cornell Tech"
 +++
