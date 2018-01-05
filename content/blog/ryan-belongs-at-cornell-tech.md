@@ -4,21 +4,14 @@ description = ""
 title = "Ryan Belongs at Cornell Tech"
 +++
 
-In 3rd grade, I was assigned a project to collect postmarks from all 50 states. Most kids wrote to friends or family and collected a handful of postmarks. I had seen my mother write to investor relations contacts at companies and they always replied. Always. So, I wrote to 50 companies in 50 states. Upon seeing the box of 50 returns, the teacher declared that no class had ever collected all 50, especially not through one student. This was my first time taking ownership over a problem, thinking outside the box, and delivering results.
-
-<img src="/images/cornell/3rdgrade.jpg" width="50%"/>
-*I should have taken better ownership over my hair style!*
-
-I carried this ownership mentality through my highschool years where I founded a number of small businesses. One business I started was snow shoveling. It failed. I learned that despite my best (and sweaty) efforts, I could not compete with a professional snow removal company’s scale and efficiency. I refocused my efforts on businesses where I could differentiate myself. My father, an electrical engineer, instilled a passion for computers in me. I pursued two simultaneous businesses based on my existing skillset: computer repair and web design. Within a few months, I had a steady stream of inbound clients. 
-
-When I turned 18, my father allowed me to try out his motorcycle. I was hooked. With funds from my businesses saved up, I bought myself a worn-down Suzuki GS500. For the next five years, my father and I would spend our weekends touring across the northeast. 
+On my eighteenth birthday I revved up my father’s motorcycle for the first time. I took off and the ride evoked an unparalleled feeling of freedom. With funds I had saved from my high school web design and computer repair businesses, I bought myself a used Suzuki GS500. For the next five years, my father, an entrepreneur, and I spent our weekends traveling across the Northeast and making memories.
 
 <div style="height: 50vh; width: 85%; margin:0 auto; padding-bottom:30px;">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/wNhc3jWRsMU?rel=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen style="display:block; margin: 0 auto;"></iframe>
 </div>
 
 
-One fateful evening, I crashed. I had a Lisfranc fracture. If it were not for the skillful surgeon in the emergency room, my foot would have been amputated; instead, I was non-weight bearing for six months.
+One fateful evening, I crashed. If it were not for the skillful surgeon in the emergency room, my foot would have been amputated. Instead, I had several more extensive surgeries and was non-weight bearing and virtually bedridden for over six months.
 
 <img src="/images/cornell/beforesurgery.JPG" width="50%" style="float:left" />
 <img src="/images/cornell/aftersurgery.jpg" width="50%"/>
@@ -27,22 +20,30 @@ One fateful evening, I crashed. I had a Lisfranc fracture. If it were not for th
 
 *Before and after surgery.*
 
-I expedited my recovery through sessions with a physical therapist where we codified the mantra of my recovery: no excuses, just results. I internalized this mantra to both my physical recovery and work. By the time I could walk again, I was the best front-end engineer in my department at Bank of America. I hobbled on crutches into my Director’s office to receive my promotion to Assistant Vice President in half the time it typically did. This experience further reinforced to me that if I take ownership over a situation, there are always opportunities to excel.
 
-While injured, I read ‘The Principles’ by Ray Dalio, where he encouraged employees at his hedge fund, Bridgewater Associates (BW), to give one another constructive criticism. At BW, criticism is viewed as a way to inflict pain which is a catalyst for progress. In fact, its offices have “Pain + Reflection = Progress” adorning their walls. I became intrigued with the culture, applied, and was hired to BW’s Core Technology department. I quickly learned that while some people were able to embrace Ray’s principles and accelerate their career trajectories, others were unable to overcome the pain.
+This near-death experience was my wake up call. I realized that I was not yet maximizing my potential and that I needed to focus if I wanted to accomplish my ultimate career goal: becoming the CEO of my own technology company.
+
+The accident happened shortly after I graduated from college, during my fourth month working as a Technology Analyst for Bank of America Merrill Lynch (BAML). My manager told me that I could take disability leave but, instead, I asked him to send me a secure laptop to enable me to work remotely. Though I was bedridden, I resolved to devote myself to both my recovery and work. Determined to overcome the surgeon’s uncertainty about my ability to walk normally again, I went to physical therapy four times a week. While rebuilding my strength, I simultaneously taught myself the tools, languages, and frameworks necessary to create and deliver GIRT, a tool that allowed Financial Advisors at BAML to extract and analyze historical alternative investments’ trade data. My dual focus on both my recovery and career worked. I vividly remember walking into my Director’s office to receive my promotion to Assistant Vice President in half the time it normally takes a Technology Analyst.
+
+As I led a team to extend GIRT to access data from the entire Global Wealth and Investment Management organization, I thought back to my wake up call. Although I was learning about web technologies and project management, the size and bureaucracy of BAML was inhibiting my potential to grow my career towards my goal of founding a technology company. While injured, I had read The Principles by Ray Dalio, in which he outlines his approach to running Bridgewater Associates (BW), the world’s largest hedge fund. I was captivated but skeptical about the culture Ray had created and I wanted to experience it first hand. I applied to and was hired by BW’s Core Technology department. I was excited that I assimilated into the company’s radically transparent, results-oriented culture outlined in The Principles, which was so different from BAML’s culture.
  
 <img src="/images/cornell/principles-book.jpg" width="40%"/>
-*Ray Dalio's [The Principles](https://www.principles.com/)*
+*Ray Dalio's [The Principles](https://www.principles.com/), originally publish as a PDF on BW's website.*
 
-I was curious to understand the personal attributes that comprised a BW culture fit and began exploring the question on nights and weekends. I utilized BW’s historical employee data to create Unicorn Hunt, an application that allowed BW’s recruiters to target sources of candidates based on a number of dimensions that were unique to success at BW. Within 10 minutes of e-mailing a prototype to my colleagues in Recruiting, the Head of Recruiting called me. As I walked towards his office, I saw Unicorn Hunt on every recruiting analyst’s screen. Unicorn Hunt successfully increased the probability of hiring a BW culture fit. My time at BW taught me that some of the most important decisions an owner can make are the culture they create and who they hire to enhance that culture.
- 
+I became curious: what were the attributes that comprised a BW culture fit? I began exploring this question on nights and weekends. I utilized employee data to create Unicorn Hunt, an application that allowed BW’s recruiters to target sources of candidates based on attributes that lead to success at BW. Within 10 minutes of sharing my prototype, the Head of Recruiting called me. As I walked towards his office, I saw Unicorn Hunt open on every recruiting analyst’s screen. 
 
 <img src="/images/cornell/brewerylife.png" />
 *Due to BW’s IP considerations, I cannot include a screenshot of Unicorn Hunt. Instead, I included a screenshot of my project that maps out breweries in NYC, [brewery.life](https://brewery.life), which is inspired by Unicorn Hunt’s real time filtering functionality.*
 
-At BW, I also contributed to open source software to help the firm migrate out of its private data centers and into the cloud serviced by Amazon Web Services (AWS). I automated the creation and configuration of cloud resources through a variety of existing projects, such as [Ansible and BuildBot](/#projects). This automation unlocked a tremendous amount of time for both BW’s IT employees and the open source community. I was exhilarated that as my contributions grew, I helped hundreds of thousands of people save time.
+Unicorn Hunt sparked a paradigm shift in the way BW's recruiters targeted universities, eventually doubling the throughput of BW’s campus hiring pipeline. The initiative I showed in creating an innovative, out-of-the-box solution on my own time earned me a promotion into BW’s new and exclusive technology department, Cloud Enablement (CE). I was excited to expand my technical breadth by collaborating with the firm’s most elite technologists by working on cutting edge cloud technologies and open source software (OSS).
 
-My team and I realized that the more AWS accounts we had, the more burdensome switching between them became. I brainstormed with my team, collaborated with the creators of [hologram, AdRoll](https://github.com/AdRoll/hologram), and developed a browser extension, [Holochrome](https://chrome.google.com/webstore/detail/holochrome/fgnplojdffjfbcmoldcfdoikldnogjpa). Holochrome enabled secure switching between AWS accounts with a single keystroke. Within a few days, BW software engineers who interfaced with AWS were saving time by using Holochrome. With tremendous support from my management chain, I published my first and [BW’s second open source project](https://github.com/Bridgewater/Holochrome). Through successful marketing via Reddit, HackerNews, and a presentation at the AWS Pop-Up Loft in San Francisco, I helped Holochrome acquire its first thousand users. Creating this end-to-end, innovative solution felt incredible. It inspired me to seek an opportunity where I could make building products my full-time focus.
+<img src="/images/cornell/bw.jpg" />
+*Collaborating with my team on cloud automation technologies. This image can  be found on both Bridgewater's [campus recruiting](https://www.bridgewater.com/campus-tech/) and [technology recruiting](https://jobs.bwater.com/explore/technology_lounge) websites.* 
+
+A year later, I was leading a CE team to help the firm migrate out of its private data centers and into the cloud serviced by Amazon Web Services (AWS). I realized that the more AWS accounts I had, the more burdensome switching between them became. I brainstormed a solution with my team: leverage an OSS product by another company, [Adroll](https://github.com/AdRoll/hologram). I formed a strategic partnership with Adroll and executed on our idea: a browser extension named [Holochrome](https://chrome.google.com/webstore/detail/holochrome/fgnplojdffjfbcmoldcfdoikldnogjpa). 
+
+Initially, Holochrome supported switching between AWS accounts with a few mouse clicks; however, technologists outside of our team did not use it. I recognized that, while Holochrome alleviated some burden, it still required effort. I reduced the interaction to a single keystroke. Within a day, every BW technologist was using Holochrome. I then worked with a designer to create sleek iconography and distributed it via Holochrome’s auto-update feature. I was inundated with positive feedback and realized technologists outside of BW could benefit from Holochrome. I collaborated with my manager and published my first OSS product. Through successful marketing via Reddit, HackerNews, and a presentation at AWS’ Loft in San Francisco, I helped Holochrome acquire its first thousand users. That experience helped me realize that I love creating products from scratch.
+
  
 <img src="/images/cornell/holochrome.png" />
 
