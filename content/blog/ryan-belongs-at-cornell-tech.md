@@ -4,6 +4,15 @@ description = ""
 title = "Ryan Belongs at Cornell Tech"
 +++
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 On my eighteenth birthday I revved up my father’s motorcycle for the first time. I took off and the ride evoked an unparalleled feeling of freedom. With funds I had saved from my high school web design and computer repair businesses, I bought myself a used Suzuki GS500. For the next five years, my father, an entrepreneur, and I spent our weekends traveling across the Northeast and making memories.
 
 <div style="height: 50vh; width: 85%; margin:0 auto; padding-bottom:30px;">
@@ -47,13 +56,37 @@ Initially, Holochrome supported switching between AWS accounts with a few mouse 
  
 <img src="/images/cornell/holochrome.png" />
 
-When I first started at Teachers Pay Teachers (TpT), the world’s largest marketplace where teachers buy and sell educational materials, I discovered opportunities for improvements to core products, foundational technologies, organizational designs and developmental processes. Within my first few months, I built a small team around myself utilizing tools to [drive process efficiency improvements](/blog/how-teachers-pay-teachers-uses-jira-on-product-teams/), delivered a minimum viable [streaming video product](/blog/streaming-video-infrastructure-on-tpt-using-evaporatejs-verk-aws-php-kaltura/), and improved foundational technology by [migrating unstable, legacy infrastructure onto more reliable infrastructure](/blog/challenges-faced-while-scaling-to-serve-millions-of-views-per-day/).
 
-<img src="/images/cornell/tpt.jpg" />
-*Collaborating on [TpT's streaming video product.](https://www.teacherspayteachers.com/Product/Grade-Essays-10x-Faster-Improve-Student-Writing-2868105)*
+I reached out through my network and found a terrific opportunity at a startup in the vibrant NYC tech ecosystem that aligned with my love for building products. Teachers Pay Teachers (TpT) is the world’s largest educational marketplace where over two thirds of the teachers in the United States buy and sell teaching materials. Within my first few months, I delivered a [streaming video product](/blog/streaming-video-infrastructure-on-tpt-using-evaporatejs-verk-aws-php-kaltura/) that resulted in 5,000 videos uploaded, built a small team around myself utilizing tools to [drive process efficiency improvements](/blog/how-teachers-pay-teachers-uses-jira-on-product-teams/), and improved foundational technology by [migrating unstable, legacy infrastructure onto more reliable infrastructure](/blog/challenges-faced-while-scaling-to-serve-millions-of-views-per-day/) that resulted in 5% revenue growth.
 
-I’ve continued scaling the breadth of my ownership at TpT and am currently the Technical Lead of an international team of 10 managing an ever-growing product catalog. Through my evolution, driven by proactive ownership from individual contributor to Technical Lead, I have realized that to continue scaling my ownership, I must have a stronger grasp over core business concepts that are the underpinnings of the product, technical, and organizational decisions I make every day.
 
-Throughout my career, I’ve progressed through a funnel of increasing responsibility at increasingly product driven organizations. I believe that the next phase of this funnel is my position as the CTO of a product focused start-up. The culmination of this funnel is my position as the CEO of a tightly knit, mission driven organization. My experience thus far has netted a plethora of invaluable skills to understand how to build successful teams and products. However, and perhaps more importantly, it has helped me realize that determining what to build is even more valuable.
+<div style="margin:0 auto; display: table;">
+    <div style="width: 85%;">
+<div class="fb-post" data-href="https://www.facebook.com/numberock/videos/785981804884478/" data-show-text="false"></div>
 
-In order to bridge the gap between my skills and my goals, I need a deeper understanding of both business and product fundamentals. This will enable me to become a thought leader, capable of balancing the complex and multivariate equations that are inherent to building product focused companies from scratch. When I was on campus in the Bloomberg Center, I envisioned myself successfully navigating these questions in Studio. I aim to begin building a startup during Studio, seek advice from the Spinout Clinic, meet future investors in the Spinout Open House, win a Spinout Award upon graduation, and eventually receive funding from the Big Red Venture Fund to support me in building NYC’s next unicorn.
+*An awesome example [video product on TpT.](https://www.teacherspayteachers.com/Product/TYPES-OF-ANGLES-Multimedia-Lesson-Classifying-Acute-Obtuse-Right-Angles-2263602)*
+</div>
+</div>
+
+
+After adding streaming video as a content type, the rate of video uploads was below our expectations. TpT’s small size and limited resources brought out my entrepreneurial spirit. I knew we could only afford to focus on one opportunity at a time. We leveraged what we learned from introducing videos, explored other opportunities, and identified an unmet demand. We pivoted to build bundles: groups of existing products sold at a discount. Today, bundles account for 25% of TpT’s revenue. Delivering bundles helped me realize I have a key entrepreneurial trait: the flexibility to pivot in pursuit of my goals.
+
+
+<img src="/images/cornell/tpt.jpg" width="45%" style="float:left" />
+<img src="/images/cornell/tpt2.jpg" width="45%" style="float:right;"/>
+<div style="clear: both;"></div>
+
+*Discussing bundles architecture. Check out an [example bundle here.](https://www.teacherspayteachers.com/Product/First-Grade-Writing-Narratives-Opinion-Informative-A-Bundle-487663)*
+
+TpT and I have scaled up together. I have accelerated TpT’s business by 30% through new products. I have helped TpT grow from 80 to 150 employees by building its brand through blogging and making its engineers an integral part of the NYC tech ecosystem. TpT has helped me internalize what it means to be a leader. 
+
+I am currently the Technical Lead of a high performing, international, cross-disciplinary team of 10. We are responsible for products that are viewed millions of times per day. This experience was exactly what I was looking for – I am directly responsible for architecting, planning, and building solutions that scale to help millions of educators per day and which account for over 30% of TpT’s revenue growth in 2017.
+
+
+Since my accident six years ago, I have become deliberate about ensuring that each step I take aligns with my goals. My journey has exposed me to key tenets that I believe are imperative for a founder and CEO. I have demonstrated tenacity in the face of adversity. I have thrived in a results-oriented culture. I have led and scaled teams. I have delivered innovative and creative technology solutions that scale. However, through this process I have realized that there is a gap in my knowledge. I do not have a strong enough understanding of the business fundamentals that are the underpinnings of every product, technical, and organizational decision.
+
+
+Cornell Tech’s MBA will help me fill my knowledge gap and allow me to further realize my potential. The business fundamentals I’ll learn will prepare me to set a strategic vision grounded in realistic economics, a strong and collaborative organizational structure, and solid technical infrastructure that get people excited to come to work every day. Foundational classes such as “Financial Accounting” and “Marketing Management” will be a great complement to my existing technology and leadership skills that I plan to further hone through courses like “Tech Strategy” and “Leading Teams”. My excitement about the curriculum grew when I came to an information session, took a campus tour, and felt the energy of the Bloomberg Center.
+
+
+I recognize that a career is a long journey. If given the chance to make Cornell Tech the next step of my journey, I plan to co-found a technology driven startup as the CEO during Studio. It is my dream to continue with my Studio startup, seek advice from the Spinout Clinic, meet future investors in the Spinout Open House, win a Spinout Award upon graduation, and eventually receive funding from the Big Red Venture Fund to support me in building NYC’s next unicorn.
