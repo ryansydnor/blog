@@ -1,10 +1,10 @@
 # [Ryan Sydnor](https://ryansydnor.com)
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://thebbs.site)s
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](https://thebbs.site)
 
 ## Local development
 
-Download Hugo for your development environment, run `hugo server --watch`, browse to `localhost:1313` and profit!
+Run `hugo server --watch` and browse to `localhost:1313`.
 
 ### New post
 
