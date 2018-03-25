@@ -1,6 +1,6 @@
 +++
 date = "2017-06-03T13:02:41-04:00"
-description = ""
+description = "A detailed guide to building, deploying and hosting applications on serverless infrastructure."
 title = "AWS Serverless Architecture for Statically Hosted Single Page Applications"
 
 +++
