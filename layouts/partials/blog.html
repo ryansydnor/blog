@@ -5,7 +5,7 @@
         </div>
         <div class="row">
             <div class="col-xs-12 posts-list">
-                {{ range first 10 .Data.Pages }}
+                {{ range first 50 .Data.Pages }}
                 {{ if eq .Type "blog" }}
                     <article>
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>

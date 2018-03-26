@@ -1,9 +1,11 @@
 +++
 date = "2018-03-24T22:44:54-04:00"
-description = "In this talk I teach the students at Codesmith.io about the fundamentals and principles of technical projcet management. I then discuss processes and tools that could enable them to successfully deliver results."
-title = "Technical Project Management Presentation at Codesmith.io"
+description = "In this presentation I teach the students at Codesmith.io about the fundamentals and principles of technical projcet management. I then discuss processes and tools that could enable them to successfully deliver results."
+title = "Technical Project Management at Codesmith.io"
 
 +++
+
+In this presentation I teach the students at Codesmith.io about the fundamentals and principles of technical projcet management. I then discuss processes and tools that could enable them to successfully deliver results.
 
 <div style="height: 50vh; width: 50vw; padding-bottom: 30px; padding-top: 10px; margin: auto;">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ULkpHcauJSc?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

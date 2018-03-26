@@ -1,5 +1,5 @@
 +++
-date = "2017-06-03T19:32:18-05:00"
+date = "2016-06-03T19:32:18-05:00"
 description = "The essay I used to apply to Cornell Tech's MBA program"
 title = "Ryan Belongs at Cornell Tech"
 +++
