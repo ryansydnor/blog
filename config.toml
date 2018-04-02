@@ -16,6 +16,7 @@ title = "Technologist"
     highlightJS = true
     copyright = false
     credit = false
+    favicon = true
 
 [[menu.main]]
     name = "Projects"
