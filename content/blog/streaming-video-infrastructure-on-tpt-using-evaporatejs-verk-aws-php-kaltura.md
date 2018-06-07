@@ -6,7 +6,7 @@ title = "Streaming Video Infrastructure on TpT using EvaporateJS, Verk, AWS, PHP
 
 <br/>
 
-Originally posted [here](http://engineering.teacherspayteachers.com/2017/06/26/streaming-video-infrastructure-on-tpt-using-evaporatejs-verk-aws-PHP-kaltura.html).
+Originally posted [here](http://engineering.teacherspayteachers.com/2017/06/26/streaming-video-infrastructure-on-tpt-using-evaporatejs-verk-aws-PHP-kaltura.html). Referenced by Kaltura [here](https://blog.kaltura.com/teachers-community-releases-cheat-sheet-aimed-helping-clients-use-kaltura/).
 
 We’re always working to build new products and features that will help our Teacher-Author community empower educators to teach at their best. This past year, some of our team was working on core infrastructure which blocked many potential changes to our existing products. Adding to our core product was available to us so we embarked on an extensive analysis via user testing to determine where to focus our energy. We determined that streaming video was an excellent medium that our Teacher-Authors could use to convey complex information so we introduced it on [Teachers Pay Teachers](https://www.teacherspayteachers.com). Here’s an [example video](https://www.teacherspayteachers.com/Product/TYPES-OF-ANGLES-Multimedia-Lesson-Classifying-Acute-Obtuse-Right-Angles-2263602). 
 
