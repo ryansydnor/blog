@@ -17,6 +17,7 @@ title = "Technologist"
     copyright = false
     credit = false
     favicon = true
+    DisqusShortname = "ryansydnor"
 
 [[menu.main]]
     name = "Projects"
