@@ -4,7 +4,7 @@ description = "Certain to Win dissects historical warfare strategies through the
 title = "Summary of Certain to Win: The Strategy of John Boyd, Applied to Business"
 +++
 
-Chet Richards' *[Certain to Win: The Strategy of John Boyd, Applied to Business](https://www.amazon.com/dp/B0793SDYSM)* dissects historical warfare strategies through the lens of [John Boyd's](<https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)>) [OODA Loop](https://en.m.wikipedia.org/wiki/OODA_loop) and derives principles that can be applied to business. Richards argues that we can apply the principles of warfare to the challenges of operating a business because business is a zero sum game played by a “team” in stressful and uncertain situations. Here are the key concepts.
+Chet Richards' *[Certain to Win: The Strategy of John Boyd, Applied to Business](https://www.amazon.com/dp/B0793SDYSM)* dissects historical warfare strategies through the lens of <a href="https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)">John Boyd's</a> [OODA Loop](https://en.m.wikipedia.org/wiki/OODA_loop) and derives principles that can be applied to business. Richards argues that we can apply the principles of warfare to the challenges of operating a business because business is a zero sum game played by a “team” in stressful and uncertain situations. Here are the key concepts.
 
 # Time
 
