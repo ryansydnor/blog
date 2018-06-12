@@ -12,7 +12,7 @@ Boyd argues that time is the most effective weapon in your arsenal. Whichever si
 
 # Agility
 
-Agility is conventionally defined as the ability to move or think quickly. However, Boyd defines agility as the ability to move or think quickly **without becoming disoriented**. Agility becomes increasingly important at the trailing edge of strategy. Strategies are based on inevitably fallible models of the world which can never capture every unpredictable detail. If you are unable to react to new sources of information and modify your strategy accordingly, you are doomed to fail. So how do you create agility?
+Agility is conventionally defined as the ability to move or think quickly. However, Boyd defines agility as the ability to move or think quickly *without becoming disoriented*. Agility becomes increasingly important at the trailing edge of strategy. Strategies are based on inevitably fallible models of the world which can never capture every unpredictable detail. If you are unable to react to new sources of information and modify your strategy accordingly, you are doomed to fail. So how do you create agility?
 
 # Culture
 
