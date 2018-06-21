@@ -22,7 +22,7 @@ Boyd argues that to create agility, you first need to build a strong culture. Th
 
 Intuitive knowledge or skill, especially for complex and chaotic situations. Comes from incessant practice in first rote then increasingly complex and challenging situations. 
 
-<img src="/images/ctw/fingerspitzengefuhl.jpg"/>
+<img src="/images/ctw/fingerspitzengefuhl.png"/>
 *Individuals with intuitive knowledge or skill.*
 
 
@@ -30,7 +30,7 @@ Intuitive knowledge or skill, especially for complex and chaotic situations. Com
 
 Mutual trust, unity, and cohesion. This can be built through mutual experience. 
 
-<img src="/images/ctw/einheit.jpg"/>
+<img src="/images/ctw/einheit.png"/>
 *A cohesive, aligned group of individuals with intuitive knowledge or skill.*
 
 
@@ -38,14 +38,14 @@ Mutual trust, unity, and cohesion. This can be built through mutual experience.
 
 Any concept that provides focus and direction. This should not be overly specific, but should still provide actionable guidance in ambiguous situations. It should focus on the change your group wants to see in the world (outward), not on the group itself (inward). This is not a plan, just the overarching direction you want your plans to take.
 
-<img src="/images/ctw/schwerpunkt.jpg"/>
+<img src="/images/ctw/schwerpunkt.png"/>
 *Schwerpunkt aims the cohesive, aligned group of individuals with intuitive knowledge or skill.*
 
 ### Auftragstaktik
 
 This gives everyone in the organization a mission. It is the contract of leadership. It fosters responsibility at every level of the organization through agreements that focus on “what” rather than “how”.
 
-<img src="/images/ctw/auftragstaktik.jpg"/>
+<img src="/images/ctw/auftragstaktik.png"/>
 *Auftragstaktik provides the power to move the aligned group towards the schwerpunkt.*
 
 
