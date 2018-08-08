@@ -1,13 +1,13 @@
 +++
 date = "2018-08-08T07:55:38-04:00"
-description = "I’ve made so many new and diverse friends during my first summer at Cornell Tech. One thing that unites us all is the way our personal goals align perfectly with the university: fuse technology with business and creative thinking. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience. With that in mind, as our MBA class of 2019 approached the end of our summer semester in Ithaca, we wanted to crystallize our experiences by reflecting on what had gone well, what could be improved, and what we should do differently."
+description = "I made so many new and diverse friends this summer in Ithaca, where my classmates and I spent the first three months of the Cornell Tech MBA program. One thing that unites us all is the way our personal goals align perfectly with the university: fuse technology with business and creative thinking. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience. With that in mind, as our MBA class of 2019 approached the end of our summer semester in Ithaca, we wanted to crystallize our experiences by reflecting on what had gone well, what could be improved, and what actions we should take going forward."
 title = "Agile MBAs: Cornell Tech Students Reflect and Grow Together"
 
 +++
 
-I’ve made so many new and diverse friends during my first summer at [Cornell Tech](https://tech.cornell.edu/about/). One thing that unites us all is the way our personal goals align perfectly with the university: fuse technology with business and creative thinking. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience.
+I made so many new and diverse friends this summer in Ithaca, where my classmates and I spent the first three months of the [Cornell Tech MBA program](https://tech.cornell.edu/about/). One thing that unites us all is the way our personal goals align perfectly with the university: fuse technology with business and creative thinking. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience.
 
-With that in mind, as our MBA class of 2019 approached the end of our summer semester in Ithaca, we wanted to crystallize our experiences by reflecting on what had gone well, what could be improved, and what we should do differently.
+With that in mind, as our MBA class of 2019 approached the end of our summer semester in Ithaca, we wanted to crystallize our experiences by reflecting on what had gone well, what could be improved, and what actions we should take going forward.
 
 For those with experience on an [agile team](https://en.wikipedia.org/wiki/Agile_software_development), these three categories likely sound familiar. They are the key tenets of a [retrospective](https://www.atlassian.com/team-playbook/plays/retrospective). Retrospectives give teams recurring opportunities to reflect, bond and collaborate to shape positive, incremental change. We decided to apply the best practices from the tech industry to our cohort in order to accomplish the following goals: 
 
@@ -69,5 +69,5 @@ After the retrospective we all voted on a scale of 1-10 as to whether or not we 
 *“I found it inspiring and enjoyable.”*<br/>
 *“We came up with meaningful conclusions and action-items that were based on a variety of perspectives.”*<br/>
 
-We have continued discussing, coordinating and making progress on each action item in our cohort’s Slack. We’re looking forward to continue growing together and shaping our MBA experience during our next semester on Roosevelt Island!
+We have continued discussing, coordinating and making progress on each action item in our cohort’s Slack. We’re looking forward to continue growing together by shaping the Cornell Tech experience on Roosevelt Island for not only ourselves but also future students!
 
