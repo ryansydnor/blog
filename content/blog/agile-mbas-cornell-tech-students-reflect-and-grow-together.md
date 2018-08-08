@@ -57,9 +57,9 @@ Over 1.5 hours, we generated thousands of thoughts about what’s gone well and 
 
 We then whittled down those thoughts into themes and prioritized the ones we thought would be the most impactful. Here are a few examples:
 
-Student Organized Groups<br/>
-Culture of continuous feedback<br/>
-Networking outside of our cohort<br/>
+- Student Organized Groups<br/>
+- Culture of continuous feedback<br/>
+- Networking outside of our cohort<br/>
 
 For each of those themes, we generated concrete action items. For example, one action item is to support Emily Shaw in scaling “Sharing is Caring”, an incredible weekly meeting where students share their expertise and wisdom with the class, on the Roosevelt Island campus.
 
