@@ -1,11 +1,11 @@
 +++
 date = "2018-08-08T07:55:38-04:00"
-description = "I made so many new and diverse friends this summer in Ithaca, where my classmates and I spent the first three months of the Cornell Tech MBA program. One thing that unites us all is the way our personal goals align perfectly with the university: fuse technology with business and creative thinking. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience. With that in mind, as our MBA class of 2019 approached the end of our summer semester in Ithaca, we wanted to crystallize our experiences by reflecting on what had gone well, what could be improved, and what actions we should take going forward."
+description = "I made so many new and diverse friends this summer in gorgeous Ithaca, NY. This is where my classmates and I spent the first three months of our Cornell Tech MBA program. One thing that unites us all is the way our personal goals align perfectly with the university: fuse technology with business and creative thinking. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience. With that in mind, as our MBA class of 2019 approached the end of our summer semester in Ithaca, we wanted to crystallize our experiences by reflecting on what had gone well, what could be improved, and what actions we should take going forward."
 title = "Agile MBAs: Cornell Tech Students Reflect and Grow Together"
 
 +++
 
-I made so many new and diverse friends this summer in Ithaca, where my classmates and I spent the first three months of the [Cornell Tech MBA program](https://tech.cornell.edu/about/). One thing that unites us all is the way our personal goals align perfectly with the university: fuse technology with business and creative thinking. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience.
+I made so many new and diverse friends this summer in gorgeous Ithaca, NY. This is where my classmates and I spent the first three months of our [Cornell Tech MBA program](https://tech.cornell.edu/about/). One thing that unites us all is the way our personal goals align perfectly with the university: fuse technology with business and creative thinking. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience.
 
 With that in mind, as our MBA class of 2019 approached the end of our summer semester in Ithaca, we wanted to crystallize our experiences by reflecting on what had gone well, what could be improved, and what actions we should take going forward.
 
@@ -61,7 +61,7 @@ We then whittled down those thoughts into themes and prioritized the ones we tho
 - Culture of continuous feedback<br/>
 - Networking outside of our cohort<br/>
 
-For each of those themes, we generated concrete action items. For example, one action item is to support Emily Shaw in scaling “Sharing is Caring”, an incredible weekly meeting where students share their expertise and wisdom with the class, on the Roosevelt Island campus.
+For each of those themes, we generated concrete action items. For example, one action item is to support Emily in scaling “Sharing is Caring” on the cross-disciplinary Roosevelt Island campus. ("Sharing is Caring" is an incredible weekly meeting where students share their expertise and wisdom with the class)
 
 After the retrospective we all voted on a scale of 1-10 as to whether or not we should do another retrospective in the future, and the result was a net promoter score of 83! Here’s what that actually sounds like:
 
