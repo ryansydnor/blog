@@ -2,8 +2,10 @@
 date = "2018-08-08T07:55:38-04:00"
 description = "I made so many new and diverse friends this summer in gorgeous Ithaca, NY. This is where my classmates and I spent the first three months of our Cornell Tech MBA program. A common goal that unites us is fusing technology with business and creative thinking - a core tenet of the Cornell Tech MBA. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience. With that in mind, as our MBA class of 2019 approached the end of our summer semester in Ithaca, we wanted to crystallize our experiences by reflecting on what had gone well, what could be improved, and what actions we should take going forward."
 title = "Agile MBAs: Cornell Tech Students Reflect and Grow Together"
-
+canonical = "https://www.johnson.cornell.edu/businessfeed/2018/08/10/agile-mba-tech-students-reflect/"
 +++
+
+Originally posted [here](https://www.johnson.cornell.edu/businessfeed/2018/08/10/agile-mba-tech-students-reflect/).
 
 I made so many new and diverse friends this summer in gorgeous Ithaca, NY. This is where my classmates and I spent the first three months of our [Cornell Tech MBA program](https://tech.cornell.edu/about/). A common goal that unites us is fusing technology with business and creative thinking - a core tenet of the Cornell Tech MBA. We also share the premise that the rapid pace of innovation in the digital age calls for a new approach to the way we learn, collaborate, and craft our experience.
 
