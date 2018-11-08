@@ -37,15 +37,15 @@ description = "An analysis using predictive models to understand how weather wil
 
 
 
-[Raga Kolli](https://www.linkedin.com/in/ragakolli/), [Giselle Lewars](https://www.linkedin.com/in/gisellelewars/), [Emily Shaw](https://www.linkedin.com/in/emily-shaw-303a0978/), and I were brainstorming one Fall evening around dinner time about how to combine datasets in the wild to reach new and interesting insights. As the conversation drifted towards the topic of food - we were struck with inspiration.
+[Raga Kolli](https://www.linkedin.com/in/ragakolli/), [Giselle Lewars](https://www.linkedin.com/in/gisellelewars/), [Emily Shaw](https://www.linkedin.com/in/emily-shaw-303a0978/), and I were brainstorming one Fall evening around dinner time about how to combine datasets in the wild to reach new and interesting insights. As we got hungrier, the conversation drifted towards the topic of food. Suddenly, we were struck with inspiration.
 
 What if the weather affected what foods people were eating? What if we could help restaurant owners understand how to staff and stock their business based purely on next week's weather forecast? So we dug in.
 
 ## Collect Data
 
-We set out to collect a full calendar year of daily granularity data. We turned to the following sources and combined the results into a single data set:
+We collected a full calendar year of daily granularity data to ensure seasonal cycles were accounted for. We pulled from the following sources and combined the results into a single data set:
 
-1. Weather - [National Centers for Environment Information]()
+1. Weather - [National Centers for Environment Information](https://www.ncdc.noaa.gov/cdo-web/datatools/records)
 2. Demand - [Google Trends](https://trends.google.com/trends/?geo=US)
 3. Cuisines - [NYC Department of Health](http://a816-restaurantinspection.nyc.gov/RestaurantInspection/SearchBrowse.do)
 
@@ -55,7 +55,7 @@ We set out to collect a full calendar year of daily granularity data. We turned 
 
 How do you compare 1 degree of temperature change with 1 inch of precipitation? You normalize! How do you create a decision tree with a range of values from 0-100? You convert into categories! How do you control for seasonality? You create dummy variables! After spending some time cleaning our data, we were ready to move on to the analysis.
 
-*Caveat: Google Trends data shows demand to the time frame queried and will not show daily granularity for a query longer than 6 months. This means we had to stick two separate results together, leading to a slightly skewed result.*
+*Caveat: Google Trends data shows demand relative to the time frame queried and will not provide daily granularity for a query longer than 6 months. Since we wanted an entire year, we had to stick two separate, 6 month data sets together. We controlled for this with a dummy variable, but it still skewed our results.*
 
 ## Develop Models
 
@@ -68,7 +68,7 @@ We used two primary models to interpret our data:
 
 We found that certain foods appear to be seasonal and correlated to weather (i.e. Mexican) and others have no correlation (i.e. Pizza).
 
-For example, we found that 1 inch of precipitation increases demand for Soup by 5%. We also found that 1 degree of temperature change effects Mexican food demand by 1%! How cool is that?!
+For example, we found that 1 inch of precipitation increases demand for Soup by 5%. We also found that 1 degree of temperature change effects Mexican food demand by 1%! As you may have predicted, we found that people always want to eat Pizza in NYC. How cool is that?!
 
 However, our highest r-squared was ~.5, meaning that it is difficult to draw strong conclusions from these results.
 
