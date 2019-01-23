@@ -4,7 +4,7 @@
         {{ range .Data.Pages.Reverse }}
         {{ if eq .Type "gallery" }}
         {{ $galleryTotal := sub (len (where .Site.Pages "Section" "gallery")) 1 }}
-        <div class='col-xs-12{{ if gt $galleryTotal 1 }} col-md-6{{ if gt $galleryTotal 2 }}{{ if modBool $galleryTotal 2 }} col-lg-3{{ end }}{{ if modBool $galleryTotal 3 }} col-lg-4{{ end }}{{ end }}{{ end }}' {{ if .Params.color }}style="background-color:{{ .Params.color }}"{{ end }}>
+        <div class='col-xs-12 col-md-6 col-lg-4' {{ if .Params.color }}style="background-color:{{ .Params.color }}"{{ end }}>
             <span class="img-helper"></span><img src="/images/{{ .Params.image}}" {{ if .Params.alt }}alt="{{ .Params.alt }}"{{ end }}>
             <div class="row middle-xs center-xs overlay">
                 <div class="col-xs-11 center-xs">
