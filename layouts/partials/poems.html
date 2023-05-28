@@ -8,11 +8,11 @@
         {{ if eq .Type "poem" }}
         {{ $galleryTotal := sub (len (where .Site.Pages "Section" "poem")) 1 }}
         <div class='col-xs-12 col-md-6 col-lg-4'>
-            <span class="img-helper"></span><img src="/images/poem/{{ .File.BaseFileName }}.jpg" alt="{{ .Title }}">
+            <span class="img-helper"></span><img src="/images/poem/{{ .File.BaseFileName }}.jpg" alt="{{ .Title }}" style="padding: 1rem">
             <div class="row middle-xs center-xs overlay">
                 <div class="col-xs-11 center-xs">
                     {{ .Content }}
-                    <p><i style="color: #bbb">{{ .Date.Format "2006-01-02" }}</i></p>
+                    <p><i style="color: #bbb">{{ .Date.Format "01/02/06" }}</i></p>
                 </div>
             </div>
         </div>

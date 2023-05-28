@@ -16,11 +16,12 @@ $(document).ready(function() {
     });
 
     Typed.new('.rotating-titles', {
-        strings: ["Technologist.", "Entrepreneur.", "Systems Architect.",
-            "Leader.", "Curious.", "Passionate.", "Driven.", "Gritty.",
-            "Enthusiastic.", "Developer.", "Team Player.", "Innovative."
+        strings: ["Technologist", "Entrepreneur", "Architect",
+            "Leader", "Curious", "Passionate", "Driven", "Gritty",
+            "Creative", "Integrated", "Compassionate", "Supportive", "Growing",
+            "Poet", "Resourceful", "Kind"
         ],
-        typeSpeed: 75,
+        typeSpeed: 35,
         loop: true,
         shuffle: true
     });
@@ -49,19 +50,20 @@ $(document).ready(function() {
     var isBlackberry = /blackberry/i.test(navigator.userAgent.toLowerCase());
     var isiDevice = /ipad|iphone|ipod/i.test(navigator.userAgent.toLowerCase());
 
-    if(isAndroid || isWindows || isBlackberry || isiDevice){
-        $('.overlay').on('click', function(){
+    // if(isAndroid || isWindows || isBlackberry || isiDevice){
+        $('.overlay').on('click touchstart', function(){
             $('.overlay').fadeTo(0, 0);
-             $(this).fadeTo('fast', 1);
+            $(this).fadeTo('fast', $(this).css("opacity") > 0.9 ? 0 : 1);
+            
         });
-    }else{
+    // }else{
         $('.overlay').mouseenter(function(){
              $(this).fadeTo('fast', 1);
         });
         $('.overlay').mouseleave(function(){
              $(this).fadeTo('fast', 0);
         });
-    }
+    // }
 });
 
 // Mobile browsers viewport height bug fix
