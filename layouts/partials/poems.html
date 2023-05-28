@@ -1,0 +1,24 @@
+<section class="gallery" id="poems">
+    <div class="container">
+        <div class="row center-xs">
+            <div class="col-xs-12"><h1>Poems</h1></div>
+        </div>
+        <div class="row">
+        {{ range .Site.RegularPages }}
+        {{ if eq .Type "poem" }}
+        {{ $galleryTotal := sub (len (where .Site.Pages "Section" "poem")) 1 }}
+        <div class='col-xs-12 col-md-6 col-lg-4'>
+            <span class="img-helper"></span><img src="/images/poem/{{ .File.BaseFileName }}.jpg" alt="{{ .Title }}">
+            <div class="row middle-xs center-xs overlay">
+                <div class="col-xs-11 center-xs">
+                    {{ .Content }}
+                    <p><i style="color: #bbb">{{ .Date.Format "2006-01-02" }}</i></p>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+        {{ end }}
+
+        </div>
+    </div>
+</section>

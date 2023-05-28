@@ -1,11 +1,11 @@
 <section class="blog" id="blog">
     <div class="container">
         <div class="row center-xs">
-            <div class="col-xs-12"><h1>Latest Posts</h1></div>
+            <div class="col-xs-12"><h1>Blog</h1></div>
         </div>
         <div class="row">
             <div class="col-xs-12 posts-list">
-                {{ range first 50 .Data.Pages }}
+                {{ range first 50 .Site.RegularPages }}
                 {{ if eq .Type "blog" }}
                     <article>
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>

@@ -394,10 +394,10 @@ blockquote {
     opacity: 0;
     transition: .2s ease;
     background-color: $black;
-    h2, h3, a {
+    h2, h3, a, p {
         color: #FFF;
     }
-    h3 {
+    h3, a, p {
         font-family: $font-body;
     }
     h3:hover, a:hover {

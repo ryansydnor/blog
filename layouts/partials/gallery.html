@@ -1,7 +1,7 @@
 <section class="gallery" id="projects">
     <div class="row">
 
-        {{ range .Data.Pages.Reverse }}
+        {{ range .Site.RegularPages.Reverse }}
         {{ if eq .Type "gallery" }}
         {{ $galleryTotal := sub (len (where .Site.Pages "Section" "gallery")) 1 }}
         <div class='col-xs-12 col-md-6 col-lg-4' {{ if .Params.color }}style="background-color:{{ .Params.color }}"{{ end }}>
