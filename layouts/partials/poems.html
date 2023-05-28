@@ -4,7 +4,7 @@
             <div class="col-xs-12"><h1>Poems</h1></div>
         </div>
         <div class="row">
-        {{ range .Site.RegularPages }}
+        {{ range .Site.Pages }}
         {{ if eq .Type "poem" }}
         {{ $galleryTotal := sub (len (where .Site.Pages "Section" "poem")) 1 }}
         <div class='col-xs-12 col-md-6 col-lg-4'>
