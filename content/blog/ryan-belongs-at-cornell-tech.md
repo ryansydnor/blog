@@ -45,7 +45,7 @@ As I led a team to extend GIRT to access data from the entire Global Wealth and 
 I became curious: what were the attributes that comprised a BW culture fit? I began exploring this question on nights and weekends. I utilized employee data to create Unicorn Hunt, an application that allowed BW’s recruiters to target sources of candidates based on attributes that lead to success at BW. Within 10 minutes of sharing my prototype, the Head of Recruiting called me. As I walked towards his office, I saw Unicorn Hunt open on every recruiting analyst’s screen. 
 
 <a href="https://brewery.life" target="_blank">
-<img src="/images/cornell/brewerylife.png" />
+<img src="/images/cornell/brewerylife.jpg" />
 </a>
 *Due to BW’s IP considerations, I cannot include a screenshot of Unicorn Hunt. Instead, I included a screenshot of my project that maps out breweries in NYC, [brewery.life](https://brewery.life), which is inspired by Unicorn Hunt’s real time filtering functionality.*
 
@@ -59,7 +59,7 @@ A year later, I was leading a CE team to help the firm migrate out of its privat
 Initially, Holochrome supported switching between AWS accounts with a few mouse clicks; however, technologists outside of our team did not use it. I recognized that, while Holochrome alleviated some burden, it still required effort. I reduced the interaction to a single keystroke. Within a day, every BW technologist was using Holochrome. I then worked with a designer to create sleek iconography and distributed it via Holochrome’s auto-update feature. I was inundated with positive feedback and realized technologists outside of BW could benefit from Holochrome. I collaborated with my manager and published my first OSS product. Through successful marketing via Reddit, HackerNews, and a presentation at AWS’ Loft in San Francisco, I helped Holochrome acquire its first thousand users. That experience helped me realize that I love creating products from scratch.
 
  
-<img src="/images/cornell/holochrome.png" />
+<img src="/images/cornell/holochrome.jpg" />
 
 
 I reached out through my network and found a terrific opportunity at a startup in the vibrant NYC tech ecosystem that aligned with my love for building products. [Teachers Pay Teachers (TpT)](https://teacherspayteachers.com) is the world’s largest educational marketplace where over two thirds of the teachers in the United States buy and sell teaching materials. Within my first few months, I delivered a [streaming video product](/blog/streaming-video-infrastructure-on-tpt-using-evaporatejs-verk-aws-php-kaltura/) that resulted in 5,000 videos uploaded, built a small team around myself utilizing tools to [drive process efficiency improvements](/blog/how-teachers-pay-teachers-uses-jira-on-product-teams/), and improved foundational technology by [migrating unstable, legacy infrastructure onto more reliable infrastructure](/blog/challenges-faced-while-scaling-to-serve-millions-of-views-per-day/) that resulted in 5% revenue growth.

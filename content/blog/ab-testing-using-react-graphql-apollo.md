@@ -9,7 +9,7 @@ Originally posted [here](http://engineering.teacherspayteachers.com/2017/05/31/a
 Here at Teachers Pay Teachers, we want to ensure that any change we make to our site benefits our community of educators. In order to do this effectively we take an extraordinarily data driven approach to releasing code. In addition to what you’d normally expect of a production ready feature (well tested, instrumented for performance, monitoring/alerting set up) we also rely heavily on [Google Analytics](https://www.google.com/analytics/analytics) to record not only actions taken on each page – but what “experiments” were active when those actions were taken. This lets us build dashboards of graphs that show us how our experiments are performing. Throughout this post I’ll share the details of our A/B testing implementation. 
 
 
-<img src="/images/abtest/dashboard.png"/>
+<img src="/images/abtest/dashboard.jpg"/>
 
 *Here’s an example from an experiment's dashboard that was [maintaining feature parity while migrating to new infrastructure](http://engineering.teacherspayteachers.com/2017/05/28/challenges-faced-while-scaling-our-visually-refreshed-product-page.html) - looks like a success to me!*
  
@@ -68,7 +68,7 @@ And here's an example of it in action:
  
 With that simple fix we saw a dramatic decrease in traffic to our graph API!
  
-<img src="/images/abtest/requestdrop.png"/>
+<img src="/images/abtest/requestdrop.jpg"/>
 
 *The dip in traffic when we began batching requests - and this was when we only had approximately 40% of our traffic querying for feature variants!*
  

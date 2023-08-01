@@ -13,7 +13,7 @@ We just spent two incredible days at the [Wharton People Analytics Conference](h
 
 [Organizational Network Analysis (ONA)](https://en.wikipedia.org/wiki/Organizational_network_analysis) is a way to understand networks of people by analyzing their communication activity on digital channels such as messaging platforms and collaboration tools. ONA can be used to answer important questions about how your organization behaves. For example, what team or department is most influential based on their communication activity? Plus, check out how cool the visualizations are!
 
-<img src="/images/people-analytics/ona.png"/>
+<img src="/images/people-analytics/ona.jpeg"/>
 *Example taken from Columbia’s Organizational Network Analysis [course description.](https://www8.gsb.columbia.edu/gleam/programs/organizational-network-analysis)*
 
 
@@ -23,7 +23,7 @@ At Grow, we plan to use ONA to help you figure out who you might want to exchang
 
 Google helped show that [psychological safety is the foundation of productivity.](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html) At the conference, Accenture debuted a white paper (not yet published, but based on [this research](https://www.amazon.com/dp/B07FVT473G/ref=cm_sw_r_tw_dp_U_x_HVMQCbPSWKM50)) that built on Google’s research to show that when psychological safety is used in conjunction with peer accountability and intelligent nudging, employee performance increased even more.
 
-<img src="/images/people-analytics/teamcollab.png"/>
+<img src="/images/people-analytics/teamcollab.jpeg"/>
 *Kelly Monahan showing improved results when psychological safety, nudging, and peer accountability are used together.*
 
 
@@ -33,7 +33,7 @@ Don’t evaluate but instead simply share your impression. The only thing each i
 
 Don’t share what they should do differently, but rather what you would have done differently. This makes sure that feedback is actionable but not imposing.
 
-<img src="/images/people-analytics/pac.png"/>
+<img src="/images/people-analytics/pac.jpeg"/>
 *Photo Credit: [@WhartonPAC Twitter](https://twitter.com/WhartonPAC)*
 
 At Grow, we help you become more self-aware about your strengths by harnessing the wisdom of your team through continuous feedback. We then help you build and fortify your strengths by combining [feedforward](https://faculty.medicine.umich.edu/sites/default/files/resources/feedforward.pdf) with personalized micro and macro educational resource recommendations — right in the flow of work!
@@ -44,7 +44,7 @@ Richard Thaler has proven that the power of nudging is indisputable. To help peo
 Why did this have such a dramatic effect? Because it was easy. In BJ Fogg’s [model of behavior change](https://behaviormodel.org/), the easier and more simplistic a behavior is, the higher the likelihood that someone will do it. By making saving the default choice, it took more effort to not save.
 However, Thaler warned the audience that becoming a choice architect comes with a moral and ethical responsibility — don’t nudge someone unless you are 100% sure it is the right direction for them and ensure that you can measure the results of your nudge!
 
-<img src="/images/people-analytics/thaler.png"/>
+<img src="/images/people-analytics/thaler.jpeg"/>
 *Ryan Sydnor and Richard Thaler*
 
 
