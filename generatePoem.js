@@ -22,14 +22,14 @@ ${poem.split('\n').join('\n\n')}
 
   let prompt = `generate a prompt for an image based on this poem: "${poem}"`;    
   const haikuCompletion = await openai.createChatCompletion({
-    model: 'gpt-3.5-turbo',
+    model: 'gpt-4',
     messages: [
-      { role: 'system', content: 'You use poems as input. You provide a simple prompt to create an image that captures the essence of the poem as output. You can use any art style you like. Your instructions do not exceed 900 characters.' },
+      { role: 'system', content: 'You use poems as input. You provide a concise, short, simple prompt to create an image in an art style of your choosing to captures the essence of the poem as output.' },
       {
         role: 'user', content: poem,
       },
     ],
-    temperature: 1.33,
+    temperature: 1.25,
   });  
   console.log(haikuCompletion.data.choices[0].message.content);
   const res = await openai.createImage({
