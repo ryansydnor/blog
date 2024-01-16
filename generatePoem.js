@@ -9,14 +9,14 @@ const readline = require('readline');
 async function main() {
   const poem = process.argv[2];
   const date = process.argv[3] || new Date().toISOString().split('T')[0];
-  console.log(poem, poem.split('\n').join('\n\n'))
+  
   fs.writeFileSync(`content/poem/${date}.md`,
 `+++
 date = "${date}"
 image = "poem/${date}.jpg"
 +++
 
-${poem.split('\n').join('\n\n')}
+${poem.split('\\n').join('\n\n')}
 `);
 
   let answer = null;
@@ -28,7 +28,7 @@ ${poem.split('\n').join('\n\n')}
   while (answer !== 'Y' && answer !== 'y') {
     let prompt = `generate a prompt for an image based on this poem: "${poem}"`;    
     const haikuCompletion = await openai.chat.completions.create({
-      model: 'gpt-4-1106-preview',
+      model: 'gpt-4',
       messages: [
         { role: 'system', content: 'You use poems as input. You provide a concise, short, simple prompt to create an image in an art style of your choosing to captures the essence of the poem as output.' },
         {
@@ -46,9 +46,6 @@ ${poem.split('\n').join('\n\n')}
       response_format: 'url',
     })
     await exec(`curl -s '${res.data[0].url}' > /tmp/1.jpg`);
-    // await exec(`curl -s '${res.data.data[1].url}' > /tmp/2.jpg`);
-    // await exec(`curl -s '${res.data.data[2].url}' > /tmp/3.jpg`);
-    // await exec(`curl -s '${res.data.data[3].url}' > /tmp/4.jpg`);
     await exec(`open /tmp/1.jpg`);
 
     answer = await new Promise(resolve => {
